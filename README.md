@@ -8,7 +8,7 @@ Currently, I am the Engineering Manager and Tech Lead of the [Decathlon Design S
 
 I love learning new things every day, meeting passionate individuals, and sharing my knowledge with as many people as possible.
 
-I also work part-time as a freelancer to assist companies with topics related to web development and Design Systems. In parallel, I provide free content related to these subjects on [my blog](/blog), [my newsletter](https://webpreneurs.substack.com), and [my YouTube channel](https://youtube.com/@lauthieb).
+I also work part-time as a freelancer to assist companies with topics related to web development and Design Systems. In parallel, I provide free content related to these subjects on [my blog](https://lauthieb.dev/blog), [my newsletter](https://webpreneurs.substack.com), and [my YouTube channel](https://youtube.com/@lauthieb).
 
 I am also passionate about Open Source and am always interested in working on new projects with new people. Feel free to check out my freelance profile on [Malt](https://www.malt.fr/profile/lauthieb) or contact me via [email](mailto:thiebault.laurent@gmail.com).
 
