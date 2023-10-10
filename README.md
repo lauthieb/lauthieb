@@ -1,6 +1,4 @@
-# Hello World! 👋
-
----
+**Hello World! 👋**
 
 I am [Laurent Thiebault](https://www.lauthieb.dev), married, and a proud father of 2 children. Passionate about the web and technology in general! 
 
